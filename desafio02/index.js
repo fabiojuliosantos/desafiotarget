@@ -1,5 +1,5 @@
 /* Desafio sobre a Sequência de Fibonacci*/
-var numInicial = 1222;
+var numInicial = 13;
 function fibonacci(numInicial) {
     var num1 = 1;
     var num2 = 0;
